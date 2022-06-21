@@ -78,6 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
           if (!mounted) {
             return;
           }
+
           setState(() {
             _initialURI = initialURI;
           });
