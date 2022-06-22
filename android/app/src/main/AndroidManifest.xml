@@ -40,7 +40,7 @@
                 <!-- Accepts URIs that begin with YOUR_SCHEME://YOUR_HOST -->
                 <data
                     android:scheme="https"
-                    android:host="deeplinktesting.com" />
+                    android:host="deeplinkstesting.com" />
             </intent-filter>
         </activity>
         <!-- Don't delete the meta-data below.
