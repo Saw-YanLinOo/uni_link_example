@@ -1,6 +1,12 @@
 # uni_links_example
 
-A new Flutter project to understand deep linking using uni_links.
+Flutter project to understand deep linking using uni_links.
+
+article in medium
+
+  - https://medium.com/@yan_yan/open-your-flutter-app-from-external-link-using-uni-links-9abe64ac2a10
+  
+  
 
 ## Getting Started
 
